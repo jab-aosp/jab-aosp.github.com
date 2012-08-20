@@ -1,2 +1,2 @@
-jab-aosp.github.com
+http://jab-aosp.github.com
 ===================
